@@ -6,3 +6,7 @@ Commit No. 1: Implement ViewModel to Handle Rotation
 Commit No. 2: Implement LiveData to Sync Activity and Fragment UI
 
 <img width="262" height="539" alt="Screenshot 2025-11-10 at 11 09 50 AM" src="https://github.com/user-attachments/assets/ca1572dc-bbb0-4725-b153-615a5a727e56" />
+
+Commit No. 3: Integrate Room Database for Data Persistence
+
+<img width="277" height="550" alt="Screenshot 2025-11-10 at 11 16 27 AM" src="https://github.com/user-attachments/assets/59530622-61b5-45a6-85d9-6f67d40fff31" />
