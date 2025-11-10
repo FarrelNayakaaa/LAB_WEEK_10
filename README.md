@@ -10,3 +10,7 @@ Commit No. 2: Implement LiveData to Sync Activity and Fragment UI
 Commit No. 3: Integrate Room Database for Data Persistence
 
 <img width="277" height="550" alt="Screenshot 2025-11-10 at 11 16 27 AM" src="https://github.com/user-attachments/assets/59530622-61b5-45a6-85d9-6f67d40fff31" />
+
+Commit No. 4: Complete Bonus Assignment (Add Update Timestamp)
+
+<img width="299" height="563" alt="Screenshot 2025-11-10 at 11 22 47 AM" src="https://github.com/user-attachments/assets/c1bc3dcb-0d9b-4ef9-ba69-2ec5289d1c51" />
