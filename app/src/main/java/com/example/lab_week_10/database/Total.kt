@@ -14,3 +14,4 @@ data class Total(
     @ColumnInfo(name = "total")
     val total: Int = 0
 )
+

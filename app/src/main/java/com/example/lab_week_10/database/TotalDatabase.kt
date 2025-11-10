@@ -7,3 +7,4 @@ import androidx.room.RoomDatabase
 abstract class TotalDatabase : RoomDatabase() {
     abstract fun totalDao(): TotalDao
 }
+

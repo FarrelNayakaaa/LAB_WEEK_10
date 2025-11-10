@@ -16,3 +16,4 @@ interface TotalDao {
     @Query("SELECT * FROM total WHERE id = :id")
     fun getTotal(id: Long): List<Total>
 }
+
